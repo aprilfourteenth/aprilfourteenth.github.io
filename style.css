@@ -1,28 +1,28 @@
 @font-face
 {
-    font-family: "Tex Gyre Schola"
-    src: url("http://aprilfourteenth.github.io/fonts/tgs-regular.otf");
+    font-family: "Tex Gyre Schola";
+    src: url("/fonts/tgs-regular.otf");
     font-weight: normal;
     font-style: normal;
 }
 @font-face
 {
-    font-family: "Tex Gyre Schola"
-    src: url("http://aprilfourteenth.github.io/fonts/tgs-italic.otf");
+    font-family: "Tex Gyre Schola";
+    src: url("/fonts/tgs-italic.otf");
     font-weight: normal;
     font-style: italic;
 }
 @font-face
 {
-    font-family: "Tex Gyre Schola"
-    src: url("http://aprilfourteenth.github.io/fonts/tgs-bold.otf");
+    font-family: "Tex Gyre Schola";
+    src: url("/fonts/tgs-bold.otf");
     font-weight: bold;
     font-style: normal;
 }
 @font-face
 {
-    font-family: "Tex Gyre Schola"
-    src: url("http://aprilfourteenth.github.io/fonts/tgs-bolditalic.otf");
+    font-family: "Tex Gyre Schola";
+    src: url("/fonts/tgs-bolditalic.otf");
     font-weight: bold;
     font-style: italic;
 }
