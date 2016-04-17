@@ -1,0 +1,81 @@
+@font-face
+{
+    font-family:"Tex Gyre Schola"
+    src: url('fonts/tgs-regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face
+{
+    font-family:"Tex Gyre Schola"
+    src: url('fonts/tgs-italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face
+{
+    font-family:"Tex Gyre Schola"
+    src: url('fonts/tgs-bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face
+{
+    font-family:"Tex Gyre Schola"
+    src: url('fonts/tgs-bolditalic.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}
+body
+{
+    font-family:"Tex Gyre Schola","Century Schoolbook",serif;
+}
+#masthead
+{
+    font-size:2.25em;
+    font-style:italic;
+    text-align:center;
+}
+#mission
+{
+    font-style:italic;
+    text-align:center
+}
+#issue
+{
+    text-transform:uppercase;
+    font-style:italic;
+    text-align:center;
+    font-size:.7em;
+}
+#issueno
+{
+    font-weight:bold;
+}
+.generic-heading
+{
+    font-weight:normal;
+    font-size:1em;
+    text-align:center;
+    text-transform:uppercase;
+    padding-top:1.5em;
+
+}
+#real-body
+{
+    margin: 0 auto;
+}
+#about
+{
+    text-align:center;
+}
+a
+{
+    color:dodgerblue;
+}
+@media (min-device-width: 700px)
+{
+    #real-body{
+        max-width:400px;
+    }
+}
